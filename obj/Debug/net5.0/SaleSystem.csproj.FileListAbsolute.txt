@@ -157,3 +157,5 @@ C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\SaleSystem.dl
 C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\ref\SaleSystem.dll
 C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\SaleSystem.pdb
 C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\SaleSystem.genruntimeconfig.cache
+C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\Razor\Areas\Users\Views\Users\Users.cshtml.g.cs
+C:\Users\luisk\source\repos\SaleSystem\SaleSystem\obj\Debug\net5.0\Razor\Areas\Users\Views\_ViewStart.cshtml.g.cs
